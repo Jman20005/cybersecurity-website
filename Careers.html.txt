@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cybersecurity Careers</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Careers in Cybersecurity</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="threats.html">Threats</a>
+    <a href="protection.html">Protection</a>
+    <a href="careers.html">Careers</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+    <h2>Security Analyst</h2>
+    <p>Monitors systems and protects against cyber threats.</p>
+
+    <h2>Ethical Hacker</h2>
+    <p>Tests systems to find vulnerabilities before criminals do.</p>
+
+    <h2>Penetration Tester</h2>
+    <p>Simulates attacks to improve security systems.</p>
+</div>
+
+<footer>
+    The Future is Cyber.
+</footer>
+
+</body>
+</html>
